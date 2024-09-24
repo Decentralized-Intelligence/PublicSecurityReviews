@@ -16,11 +16,11 @@ This repository contains our public disclosures, research papers, and audit repo
 | Sep 2024 | Amplification Attack | [Research Paper](2024-09-research-amplification-attack.pdf) | Disclosed to bloXroute<br>Disclosed to Eden network |
 | Aug 2024 | Ethereum Mempool DoS | [Research Paper](2024-08-research-ethereum-mempool-DoS.pdf) | Disclosed to Ethereum foundation (bug bounty received)<br>Disclosed to Flashbots (bug bounty received)|
 | May 2024 | BX Digital | [Audit Report](2024-05-audit-bx-digital.pdf) | PVE-001[^2] (Medium): AssetAddress can be variable balance token<br>PVE-002[^2] (Low): Malicious oracle can manipulate the trade order<br>PVE-003[^2] (Info): Front-running possibility when the oracle is malicious |
-| Sep 2023 | **Hidden**[^1] | [Security Disclosure](2023-09-disclosure-project-t.md) | Centralized risk to steal users' fund, with PoC |
+| Sep 2023 | **Hidden**[^1] | [Security Disclosure](2023-09-disclosure-project-t.md)[^3] | Centralized risk to steal users' fund |
 | Aug 2023 | Role Play Attacks | [Research Paper](2023-08-role-play-attacks.pdf) | |
 | Aug 2023 | Generalised Front-Running | [Research Paper](2023-08-research-generalised-front-running.pdf) | MassDeposit: Vulnerability in massDeposit() risking $28.58M (ETH) and $759.54K (BSC).<br>Unverified Stake: BSC staking flaw allowing instant profit from unverified assets.<br>Unauthenticated Minting: BSC token flaw enabling unlimited token minting.<br>Unauthenticated Asset Redemption: Contracts on ETH and BSC allowing unrestricted asset redemptions.<br>Faulty Authentication: 8 contracts (ETH/BSC) enabling unauthorized asset transfers. |
-| Jul 2023 | BlockWallet | [Security Disclosure](2023-07-disclosure-blockwallet.md) | New attack vector: bypassing swap fee [including PoC] |
-| Jul 2023 | **Hidden**[^1] | [Security Disclosure](2023-07-disclosure-project-m.md) | New attack vector: bypassing swap fee [including PoC] |
+| Jul 2023 | BlockWallet | [Security Disclosure](2023-07-disclosure-blockwallet.md)[^3] | New attack vector: bypassing swap fee |
+| Jul 2023 | **Hidden**[^1] | [Security Disclosure](2023-07-disclosure-project-m.md)[^3] | New attack vector: bypassing swap fee |
 | Jun 2023 | Huckleberry | [Security Disclosure](2023-06-huckleberry.md) | Critical: Lend bug - A malicious user can steal all funds deposited into the protocol. Possible Loss: All TVL (highest ~$300k in history, now 50k) |
 | Jun 2023 | SwissBorg | [Audit Report](2023-06-audit-swissborg.pdf) | 3 potential security vulnerabilities that could compromise system integrity and safety.<br>3 informational findings to improve contract code quality. |
 | May 2023 | EPG | [Research Paper](2023-05-research-epg.pdf) | Uniswap + Tokenlon, flaw in token design leads to continous arbitrage opportunities |
@@ -39,7 +39,8 @@ This repository contains our public disclosures, research papers, and audit repo
 | Dec 2014 | Bloom Filters | [Research Paper](2014-12-bloom-filters.pdf) | |
 
 [^1]: Hidden for security reasons, as the issue has not yet been fixed.
-[^2]: PVE stands for Potential Vulnerability Exposure
+[^2]: PVE stands for Potential Vulnerability Exposure.
+[^3]: Proof of Concept (PoC) included to demonstrate the feasibility.
 
 ## About Our Work
 
