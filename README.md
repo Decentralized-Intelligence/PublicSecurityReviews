@@ -1,6 +1,6 @@
-# d23e.ch Research and Security
+# Public Reports
 
-Welcome to the official repository of [d23e.ch](https://d23e.ch). We are a company specializing in blockchain security and research, focusing on identifying vulnerabilities in both design and code.
+Welcome to the official public reports repository of [d23e.ch](https://d23e.ch). We are a company specializing in blockchain security and research, focusing on identifying vulnerabilities in both design and code.
 
 ## Our Services
 
