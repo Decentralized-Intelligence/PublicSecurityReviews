@@ -20,8 +20,7 @@ This repository contains our public disclosures, research papers, and audit repo
 | Aug 2023 | Role Play Attacks | [Research Paper](2023-08-role-play-attacks.pdf) | |
 | Aug 2023 | Generalised Front-Running | [Research Paper](2023-08-research-generalised-front-running.pdf) | MassDeposit: Vulnerability in massDeposit() risking $28.58M (ETH) and $759.54K (BSC).<br>Unverified Stake: BSC staking flaw allowing instant profit from unverified assets.<br>Unauthenticated Minting: BSC token flaw enabling unlimited token minting.<br>Unauthenticated Asset Redemption: Contracts on ETH and BSC allowing unrestricted asset redemptions.<br>Faulty Authentication: 8 contracts (ETH/BSC) enabling unauthorized asset transfers. |
 | Jul 2023 | BlockWallet | [Security Disclosure](2023-07-disclosure-blockwallet.md) | New attack vector: bypassing swap fee [including PoC] |
-| Jul 2023 | **Hidden**[^1]
- | [Security Disclosure](2023-07-disclosure-project-m.md) | New attack vector: bypassing swap fee [including PoC] |
+| Jul 2023 | **Hidden**[^1] | [Security Disclosure](2023-07-disclosure-project-m.md) | New attack vector: bypassing swap fee [including PoC] |
 | Jun 2023 | Huckleberry | [Security Disclosure](2023-06-huckleberry.md) | Critical: Lend bug - A malicious user can steal all funds deposited into the protocol. Possible Loss: All TVL (highest ~$300k in history, now 50k) |
 | Jun 2023 | SwissBorg | [Audit Report](2023-06-audit-swissborg.pdf) | 3 potential security vulnerabilities that could compromise system integrity and safety.<br>3 informational findings to improve contract code quality. |
 | May 2023 | EPG | [Research Paper](2023-05-research-epg.pdf) | Uniswap + Tokenlon, flaw in token design leads to continous arbitrage opportunities |
