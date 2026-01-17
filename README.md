@@ -13,7 +13,7 @@ This repository contains our public disclosures, research papers, and audit repo
 
 | Date | Project/Topic | Type & Document | New Vulnerabilities/New Findings |
 |------|---------------|-----------------|--------------------------|
-| Jan 2026 | Immunefi | [Audit Report](https://github.com/Decentralized-Intelligence/PublicSecurityReviews/blob/main/2026-01-immunifi-audit.pdf) | See Report |
+| Jan 2026 | Immunefi | [Audit Report](https://github.com/Decentralized-Intelligence/PublicSecurityReviews/blob/main/2026-01-immunefi-audit.pdf) | See Report |
 | Jan 2026 | AVE AI | [Audit Report](https://github.com/Decentralized-Intelligence/PublicSecurityReviews/blob/main/2026-01-ave-ai-audit.pdf) | Critical: unauthenticated v3-style swap callback can drain router ERC20 balances |
 | Jul 2025 | Sanction + Tracing | [Research Paper](https://github.com/Decentralized-Intelligence/PublicSecurityReviews/blob/main/2025-07-research-sanction.pdf) | Quantifies OFAC sanctions on Tornado Cash; deposits down ~71% but still used in ~78% incidents<br>Limitations: dusting, partial enforcement, obfuscation; proposes impurity scoring/tracking |
 | Jul 2025 | A1 | [Research Paper](https://github.com/Decentralized-Intelligence/PublicSecurityReviews/blob/main/2025-07-reserach-a1.pdf) | A1 turns LLMs into an execution-validated exploit generator<br>36 contracts; 63% success on VERITE; attacker/defender cost asymmetry |
